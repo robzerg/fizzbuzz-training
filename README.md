@@ -1,2 +1,2 @@
 # fizzbuzz-training
-another FizzBuzz example
+Welcome to anoother fizzbuzz example!
