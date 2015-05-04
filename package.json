@@ -1,7 +1,10 @@
 {
   "name": "fizzbuzz-training",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "FizzBuzz for training",
   "main": "./lib/fizzbuzz.js",
-  "repository": "https://github.com/robzerg/fizzbuzz-training.git"
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/robzerg/fizzbuzz-training.git"
+    }
 }
